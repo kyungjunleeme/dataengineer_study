@@ -9,3 +9,8 @@
 
 - https://github.com/keyvanakbary/learning-notes/blob/master/books/designing-data-intensive-applications.md#encoding-and-evolution
 - https://sungjk.github.io/2024/06/22/ddia.html
+
+
+DEA 자격증 덤프 관련 모음
+- https://g-egg.tistory.com/152
+- https://www.awslagi.com/course/aws-certified-data-engineer-associate-dea-c01/lessons/aws-certified-data-engineer-associate-dea-c01-topic-1/
