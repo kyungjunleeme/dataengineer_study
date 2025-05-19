@@ -1,5 +1,8 @@
 # dataengineer_study
 
+# 로드맵 관련 내용
+- https://github.com/data-burst/data-engineering-roadmap
+
 
 - https://blog.det.life/fundamentals-of-data-engineering-book-key-learning-points-35001380dda6
 
